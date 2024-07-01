@@ -3,8 +3,8 @@
 ![Netflix-ELT-Diagram](https://github.com/NagarjunP23/SQL-Projects/assets/53596669/a4fafb0d-41ef-48f9-bec1-ccb11ddd4428)
 
 
-<p>This is an ELT project using **Python and SQL**. 
-Python is used for Loading the data into SQL Server and data cleaning and transformation is done using SQL.</p>
+This is an ELT project using ** Python and SQL **. 
+Python is used for Loading the data into SQL Server and data cleaning and transformation is done using SQL.
 
 After transforming the data, below questions were answered using SQL
 
